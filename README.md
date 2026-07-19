@@ -216,7 +216,7 @@ FastAPI · Distributed systems fundamentals · Advanced system design patterns
 <a href="https://linkedin.com/in/anushreya-chauhan-396793346">
   <img src="https://img.shields.io/badge/LINKEDIN-8E1616?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:anushreya2803@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8E1616" />
 </a>
 
