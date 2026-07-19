@@ -1,0 +1,40 @@
+<svg width="1200" height="380" viewBox="0 0 1200 380" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="100%" stop-color="#141010"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8E1616" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#8E1616" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#8E1616" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8E1616" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#8E1616" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="380" fill="url(#bg)"/>
+
+  <!-- fine corner geometry -->
+  <line x1="80" y1="60" x2="80" y2="110" stroke="#8E1616" stroke-width="1.5"/>
+  <line x1="80" y1="60" x2="130" y2="60" stroke="#8E1616" stroke-width="1.5"/>
+  <line x1="1120" y1="320" x2="1120" y2="270" stroke="#8E1616" stroke-width="1.5"/>
+  <line x1="1120" y1="320" x2="1070" y2="320" stroke="#8E1616" stroke-width="1.5"/>
+
+  <!-- eyebrow -->
+  <text x="80" y="130" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14" letter-spacing="6" fill="#8E1616" font-weight="600">SOFTWARE ENGINEER</text>
+
+  <!-- name -->
+  <text x="78" y="205" font-family="Georgia, 'Times New Roman', serif" font-size="66" fill="#FFFFFF" font-weight="400" letter-spacing="1">Anushreya Chauhan</text>
+
+  <!-- divider -->
+  <rect x="80" y="235" width="140" height="2" fill="url(#fade)"/>
+
+  <!-- tagline -->
+  <text x="80" y="270" font-family="'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#B8B8B8" letter-spacing="0.5">AI &amp; Computer Vision · Full-Stack Engineering · System Design</text>
+
+  <!-- bottom accent line -->
+  <rect x="0" y="376" width="1200" height="4" fill="url(#accent)"/>
+</svg>
