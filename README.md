@@ -183,8 +183,8 @@ A real-time fatigue detection system that tracks eye closure patterns using faci
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=8E1616&text_color=B8B8B8&hide_title=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B8B8B8&langs_count=8" width="34%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Anushreya-Chauhan&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=8E1616&text_color=B8B8B8&hide_title=false" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushreya-Chauhan&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B8B8B8&langs_count=8" width="34%" />
 
 </div>
 
@@ -210,7 +210,7 @@ FastAPI · Distributed systems fundamentals · Advanced system design patterns
 
 <div align="center">
 
-<a href="https://github.com/your-username">
+<a href="https://github.com/Anushreya-Chauhan">
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://linkedin.com/in/anushreya-chauhan-396793346">
