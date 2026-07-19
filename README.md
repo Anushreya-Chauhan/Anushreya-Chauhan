@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://github.com/your-username">
+<a href="https://github.com/Anushreya-Chauhan">
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://linkedin.com/in/your-linkedin">
